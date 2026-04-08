@@ -1,6 +1,6 @@
 # Local-Hand-Landmarker
 A lightweight, local implementation of the MediaPipe Hand Landmarker. Real-time 21-point hand skeleton tracking with high precision and low latency.
-# Local Hand Landmarker
+
 
 一個基於本地運行的手部關鍵點偵測工具，深度復刻並優化了 **MediaPipe Hand Landmarker** 的核心功能。本專案旨在提供高效、低延遲的手部 21 個關鍵點（Landmarks）追蹤解決方案，適用於手勢識別、人機互動與 AR 應用。
 
