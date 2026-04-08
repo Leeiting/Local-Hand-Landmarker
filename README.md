@@ -19,10 +19,5 @@ A lightweight, local implementation of the MediaPipe Hand Landmarker. Real-time 
 5-8. INDEX_FINGER (食指)
 ... (以此類推)
 
-## 🚀 快速上手
 
-### 環境需求
-* Python 3.8+
-* OpenCV
-* (列出你使用的其他框架，例如 NumPy, TensorFlow 或 PyTorch)
 
