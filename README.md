@@ -26,8 +26,3 @@ A lightweight, local implementation of the MediaPipe Hand Landmarker. Real-time 
 * OpenCV
 * (列出你使用的其他框架，例如 NumPy, TensorFlow 或 PyTorch)
 
-### 安裝步驟
-```bash
-git clone [https://github.com/你的用戶名/local-hand-landmarker.git](https://github.com/你的用戶名/local-hand-landmarker.git)
-cd local-hand-landmarker
-pip install -r requirements.txt
